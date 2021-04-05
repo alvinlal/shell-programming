@@ -35,3 +35,19 @@ for (( i=0;i<"${#langs[@]}";i++ ))
 do
     echo "${langs[$i]}"
 done
+
+
+for command in pwd ls date
+do
+    $command
+done
+
+echo "Directories available in the current folder is"
+
+for item in *
+do
+    if [ -d $item ]
+    then
+        echo $item
+    fi
+done
