@@ -9,10 +9,7 @@ rev=0
 
 while [ $n -gt 0 ]
 do
-	r=$(($#!/bin/bash
-
-# 6. Sort n numbers using array
-# Aim:- Write a shell script to sort n numbers using arrayn%10))
+	r=$(($n%10))
 	rev=$(($rev*10+r))
 	n=$(($n/10))
 done
