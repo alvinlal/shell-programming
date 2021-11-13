@@ -1,0 +1,42 @@
+total 152
+-rw-r--r-- 1 alvin alvin   21 Oct 29 22:55 cut
+drwxr-xr-x 2 alvin alvin 4096 Oct 22 00:39 dir
+-rw-r--r-- 1 alvin alvin    0 Oct 22 20:58 employee.txt
+drwxr-xr-x 2 alvin alvin 4096 Oct 29 20:21 files
+drwxr-xr-x 2 alvin alvin 4096 Oct 29 20:41 hello
+-rw-r--r-- 1 alvin alvin   23 Nov  1 23:24 hello.txt
+-rw-r--r-- 1 alvin alvin   15 Nov  1 23:24 hello2.txt
+-rwxr-xr-x 1 alvin alvin  278 Oct 22 00:24 q1.sh
+-rwxr--r-- 1 alvin alvin 2334 Oct 23 22:54 q10.sh
+-rwxr--r-- 1 alvin alvin  467 Oct 23 22:09 q11.sh
+-rwxr--r-- 1 alvin alvin  408 Oct 25 22:06 q12.sh
+-rwxr--r-- 1 alvin alvin  445 Oct 25 22:16 q13.sh
+-rwxr--r-- 1 alvin alvin 1637 Oct 25 22:43 q14.sh
+-rwxr--r-- 1 alvin alvin  593 Oct 25 23:12 q15.sh
+-rwxr--r-- 1 alvin alvin  366 Oct 27 20:41 q16.sh
+-rwxr--r-- 1 alvin alvin  808 Oct 27 22:04 q17.sh
+-rwxr--r-- 1 alvin alvin  467 Oct 27 22:19 q18.sh
+-rwxr--r-- 1 alvin alvin  768 Oct 27 23:00 q19.sh
+-rwxr-xr-x 1 alvin alvin  556 Oct 22 00:34 q2.sh
+-rwxr--r-- 1 alvin alvin  297 Oct 27 23:35 q20.sh
+-rwxr--r-- 1 alvin alvin  316 Oct 29 20:22 q21.sh
+-rwxr--r-- 1 alvin alvin  471 Oct 29 20:42 q22.sh
+-rwxr--r-- 1 alvin alvin  274 Oct 29 20:47 q23.sh
+-rwxr--r-- 1 alvin alvin  259 Oct 29 20:57 q24.sh
+-rwxr--r-- 1 alvin alvin 1070 Oct 29 23:07 q25.sh
+-rwxr-xr-x 1 alvin alvin  434 Oct 23 00:02 q3.sh
+-rwxr--r-- 1 alvin alvin  578 Oct 22 20:58 q4.sh
+-rwxr--r-- 1 alvin alvin  997 Oct 22 22:26 q5.sh
+-rwxr--r-- 1 alvin alvin  517 Oct 22 23:03 q6.sh
+-rwxr--r-- 1 alvin alvin  238 Oct 23 19:23 q7.sh
+-rwxr--r-- 1 alvin alvin  371 Oct 23 19:26 q8.sh
+-rwxr--r-- 1 alvin alvin  630 Oct 23 22:06 q9.sh
+-rw-r--r-- 1 alvin alvin   26 Oct 29 22:34 sample.txt
+-rw-r--r-- 1 alvin alvin   43 Oct 29 22:59 studentdb.txt
+lrwxrwxrwx 1 alvin alvin   12 Oct 25 22:43 symlink-employee.txt -> employee.txt
+lrwxrwxrwx 1 alvin alvin    4 Oct 25 22:42 symlink-test -> test
+-rw-r--r-- 1 alvin alvin   10 Nov  1 23:35 test.js
+-rw-r--r-- 1 alvin alvin   27 Oct 25 22:36 test3.file
+-rw-r--r-- 1 alvin alvin   27 Oct 27 23:35 test3copy.file
+drwxr-xr-x 2 alvin alvin 4096 Oct 22 22:09 testDir
+drwxr-xr-x 2 alvin alvin 4096 Oct 29 20:41 world
