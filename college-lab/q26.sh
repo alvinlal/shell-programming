@@ -52,5 +52,5 @@ if [ $found -lt 0 ]
 then
 	echo "The element $e is not found in the array"
 else
-	echo "The element is found at position $found"
+	echo "The element is found at position $((found+1))"
 fi
